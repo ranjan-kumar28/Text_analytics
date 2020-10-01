@@ -1,5 +1,5 @@
 import nltk
-import pandas as pd
+import pandas as pd  #import Pandas library
 import matplotlib.pyplot as plt
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 from nltk.tokenize import sent_tokenize,word_tokenize
